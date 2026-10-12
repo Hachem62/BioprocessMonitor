@@ -1,1 +1,11 @@
-This file should contain information about your conda environment.
+name: chg4360c-fall2026
+channels:
+  - defaults
+dependencies:
+  - pandas=3.0.5
+  - numpy=2.5.2
+  - matplotlib=3.11.0
+  - scikit-learn=1.9.0
+  - scipy=1.18.0
+  - python=3.14.7
+
